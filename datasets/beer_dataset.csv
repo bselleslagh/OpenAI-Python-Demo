@@ -1,0 +1,691 @@
+,Name,Brewery,Type,Alcohol,Stock,Strong,Country
+0,Aardbeien Lambic St. Louis,Van Honsebrouck,red,5.00%,18,normal,Belgium
+1,Aarschotse Brown,De Biertoren,brown,4.00%,4,light,Belgium
+2,Abbaye de Bonne-Esperance,Lefebvre,amber,8.00%,93,strong,Belgium
+3,Abbaye de Brogne donker,De Smedt,unknown,6.70%,48,normal,Belgium
+4,Abbaye de Cambron,Brasserie de Silly,amber,6.50%,72,normal,Belgium
+5,Abbaye de Gembloux,Lefebvre,amber,8.00%,38,strong,Belgium
+6,Abbaye de la Moinette brune,Dupont,brown,8.50%,59,strong,Belgium
+7,Abbaye de la Moinette brune,Dupont,brown,7.50%,51,strong,Belgium
+8,Abbaye de la Moinette-Special Nouvel An,Dupont,amber,8.50%,100,strong,Belgium
+9,Abbaye de Leffe Brown,St. Guibert,brown,6.30%,5,normal,Belgium
+10,Abbaye de Leffe radieuse,St. Guibert,dark brown,8.60%,46,strong,Belgium
+11,Abbaye de Leffe trippel,St. Guibert,brown,7.10%,14,strong,Belgium
+12,Abbaye de Leffe vieille cuvée,St. Guibert,brown,7.80%,63,strong,Belgium
+13,Abbaye des Rocs,Eloir-Bertiau,amber,9.25%,45,strong,Belgium
+14,Abbaye des Rocs Special,Eloir-Bertiau,unknown,9.50%,70,strong,Belgium
+15,Abbaye de Leffe brown,St. Guibert,amber,6.30%,98,normal,Belgium
+16,Abdijbier Affligem brown,De Smedt,brown,6.90%,77,normal,Belgium
+17,Abdijbier Affligem dark,De Smedt,dark,6.90%,36,normal,Belgium
+18,Abdijbier Affligem trippel,De Smedt,amber,9.60%,79,strong,Belgium
+19,Abdijbier Sint-Idesbald brown,Damberd,brown,6.25%,40,normal,Belgium
+20,Abdijbier Sint-Idesbald pale,Damberd,brown,6.25%,32,normal,Belgium
+21,Abdijbier Sint-Idesbald trippel,Damberd,brown,8.00%,91,strong,Belgium
+22,Adler,Haacht,golden,6.70%,93,normal,Belgium
+23,Aerts 1900,Palm,amber-red,6.00%,5,normal,Belgium
+24,Affligem red,De Smedt,red,6.70%,97,normal,Belgium
+25,Akila Export,Louwaege,unknown,4.60%,6,light,Belgium
+26,Akila Pils,Louwaege,brown,5.00%,31,normal,Belgium
+27,Alexander,Rodenbach,unknown,6.50%,37,normal,Belgium
+28,Alfri,Roman,unknown,0.50%,86,light,Belgium
+29,Ambiorix,Slaghmuylder,unknown,8.00%,39,strong,Belgium
+30,Anglo pils,Alken-Maes,brown,5.00%,9,normal,Belgium
+31,Antiek,Isebaert,amber,7.75%,83,strong,Belgium
+32,Antiek,Vieille Villers,unknown,8.00%,93,strong,Belgium
+33,Antigoon,Isebaert,unknown,8.00%,64,strong,Belgium
+34,Arabier,De Dolle Brouwers,dark brown,8.00%,88,strong,Belgium
+35,Ardennaise,Poncelet,unknown,,12,,Belgium
+36,Artevelde,Huyghe,amber,6.50%,26,normal,Belgium
+37,Artevelde Grand Cru,Huyghe,unknown,6.90%,97,normal,Belgium
+38,Augustijn,Bios,amber,8.00%,83,strong,Belgium
+39,Averechtsen Saison,Strubbe,unknown,,15,,Belgium
+40,Bacchus,Van Honsebrouck,dark brown,5.20%,49,normal,Belgium
+41,Bass-Old Barley Stout,Piedboeuf,dark,5.40%,71,normal,Belgium
+42,Bass-Pale Ale,Piedboeuf,golden,5.20%,81,normal,Belgium
+43,Bavaro,Haacht,unknown,3.40%,99,light,Belgium
+44,Bel Pils,Moortgat,unknown,5.30%,39,normal,Belgium
+45,Bergenbier,Artois,unknown,5.70%,55,normal,Belgium
+46,Bergenbier,Dendria,brown,5.10%,2,normal,Belgium
+47,Beyerd,Sterkens,unknown,6.50%,100,normal,Belgium
+48,Bier v/h Kasteel Ramegnies-Chin,Facon,unknown,12.00%,64,strong,Belgium
+49,Bière Darbyste,Brasserie de Blaugies,white,5.80%,75,normal,Belgium
+50,Biere de L'Abbaye D'Aulne 10,De Smedt,very dark,10.00%,39,strong,Belgium
+51,Biere de L'Abbaye D'Aulne 6,De Smedt,golden,6.00%,14,normal,Belgium
+52,Biere de L'Abbaye D'Aulne 8,De Smedt,dark,8.00%,56,strong,Belgium
+53,Bière de Pâques,La Binchoise,unknown,7.00%,42,normal,Belgium
+54,Bink,Kerkom,unknown,5.50%,46,normal,Belgium
+55,Bios Vlaamse Bourgogne,Bios,dark,5.75%,23,normal,Belgium
+56,Biss,Brasserie a Vapeur,brown,7.50%,70,strong,Belgium
+57,Blanche de Namur,Brasserie du Bocq,white,4.50%,83,light,Belgium
+58,Blanche des Honelles,Eloir-Bertiau,white,6.20%,95,normal,Belgium
+59,Blanche des Neiges,Huyghe,white,,6,,Belgium
+60,Bleek,Riva,unknown,1.50%,41,light,Belgium
+61,Bleek,Roman,unknown,1.20%,70,light,Belgium
+62,Block Export,De Block-Joostens,brown,5.00%,55,normal,Belgium
+63,Block Pils,De Block-Joostens,brown,5.00%,19,normal,Belgium
+64,Blond,De Biertoren,brown,1.00%,56,light,Belgium
+65,Blond,Het Sas/Leroy,unknown,1.80%,67,light,Belgium
+66,Blond,Huyghe,unknown,,62,,Belgium
+67,Blond,Lefebvre,unknown,1.50%,7,light,Belgium
+68,Blonde,Devaux,unknown,0.80%,28,light,Belgium
+69,Blonde,Haacht,unknown,1.40%,24,light,Belgium
+70,Blonde Alken,Alken-Maes,brown,1.40%,96,light,Belgium
+71,Bocholter Kwikpils Premiumbier,Martens,brown,5.00%,50,normal,Belgium
+72,Bocholter pils,Martens,brown,5.00%,3,normal,Belgium
+73,Bock pils,Palm,brown,4.80%,35,normal,Belgium
+74,Bockor export,Bockor (Vanderghinste),brown,5.00%,92,normal,Belgium
+75,Bockor pils,Bockor (Vanderghinste),brown,5.40%,28,normal,Belgium
+76,Bokkereyer,Sint-Jozef,dark brown,6.00%,13,normal,Belgium
+77,Bokrijks Kruikenbier,Sterkens,unknown,7.20%,89,strong,Belgium
+78,Bornem Dubbel,Bios,dark,8.00%,11,strong,Belgium
+79,Bornem Trippel,Bios,pale,9.00%,69,strong,Belgium
+80,Bosbier,Sint-Jozef,unknown,5.00%,72,normal,Belgium
+81,Bourg, De Smedt,unknown,,18,,Belgium
+82,Boskeun,De Dolle Brouwers,amber,8.00%,32,strong,Belgium
+83,Bourgogne des Flandres,Timmermans,brown,5.00%,44,normal,Belgium
+84,Bourgogne des Flandres,Verhaeghe,dark,6.20%,3,normal,Belgium
+85,Brewmaster Pale Ale,Martinas,unknown,4.50%,81,light,Belgium
+86,Brigand,Van Honsebrouck,amber,9.00%,80,strong,Belgium
+87,Brug-ale Belge,Brasserie de Silly,amber,4.80%,88,normal,Belgium
+88,Brugs tarwebier,De Gouden Boom,white,5.40%,96,normal,Belgium
+89,Brugse Tripel,De Gouden Boom,unknown,9.50%,50,strong,Belgium
+90,Brown,Callewaert,unknown,,86,,Belgium
+91,Brown,Het Sas/Leroy,unknown,1.80%,73,light,Belgium
+92,Brown,Huyghe,unknown,,17,,Belgium
+93,Brown,Lefebvre,unknown,1.50%,77,light,Belgium
+94,Brown,Riva,unknown,1.50%,18,light,Belgium
+95,Brown,Roman,unknown,1.20%,5,light,Belgium
+96,Brown,Sint-Jozef,unknown,,85,,Belgium
+97,brown,Devaux,unknown,0.80%,6,light,Belgium
+98,brownhaut 8,Allard & Groetembril,brown,8.00%,41,strong,Belgium
+99,Bruno,De Biertoren,brown,0.80%,38,light,Belgium
+100,Bruocsella Grand Cru Lambiek,Cantillon,unknown,5.00%,96,normal,Belgium
+101,Buffalo,Van Den Bossche,noire,5.10%,85,normal,Belgium
+102,Bugel Doppelbock,Domus,unknown,8.00%,76,strong,Belgium
+103,Bugg's,Bosteels,unknown,2.60%,33,light,Belgium
+104,Bush Beer,Dubuisson,amber,9.75%,57,strong,Belgium
+105,Cambrinus,Verhaeghe,amber,4.50%,100,light,Belgium
+106,Campbell's Christmas,Martinas,unknown,7.50%,61,strong,Belgium
+107,Campbell's Scotch,Martinas,unknown,6.80%,42,normal,Belgium
+108,Campus,De Biertoren,unknown,7.00%,73,normal,Belgium
+109,Campus Gold,De Biertoren,unknown,6.00%,70,normal,Belgium
+110,Cassis,Lindemans,unknown,,78,,Belgium
+111,Cassis bier,Timmermans,unknown,4.00%,98,light,Belgium
+112,Caves,Verhaeghe,amber,5.35%,51,normal,Belgium
+113,Cervesia,Dupont,unknown,8.50%,25,strong,Belgium
+114,Cezarken,Crombé,unknown,5.50%,34,normal,Belgium
+115,Chapeau Faro,De Troch,unknown,4.75%,60,light,Belgium
+116,Chapeau Framboise,De Troch,unknown,3.00%,44,light,Belgium
+117,Chapeau Mirabelle,De Troch,unknown,3.00%,0,light,Belgium
+118,Chapeau Pêche,De Troch,unknown,3.00%,97,light,Belgium
+119,Chapeau Tropical,De Troch,unknown,3.00%,81,light,Belgium
+120,Charles Quint,Haacht,dark,6.30%,87,normal,Belgium
+121,Chimay 'Premiere',Abbaye de Scourmont,amber,7.00%,67,normal,Belgium
+122,Chimay Red Cap,Abbaye de Scourmont,brown,7.00%,49,normal,Belgium
+123,Chimay White Cap,Abbaye de Scourmont,clear,8.00%,51,strong,Belgium
+124,Chimay Blue Cap,Abbaye de Scourmont,dark red,9.00%,63,strong,Belgium
+125,Chimay 500ieme,Abbaye de Scourmont,light brown,8.00%,37,strong,Belgium
+126,Chimay Grande Reserve,Abbaye de Scourmont,dark red,9.00%,72,strong,Belgium
+127,Christmas,Riva,dark,7.50%,86,strong,Belgium
+128,Christmas beer,Crombé,unknown,6.50%,84,normal,Belgium
+129,Christmas Bell,Roman,brown,7.20%,57,strong,Belgium
+130,Christmas De Ryck,De Ryck,amber,5.50%,61,normal,Belgium
+131,Christmas De Smedt,De Smedt,unknown,7.50%,7,strong,Belgium
+132,Christmas/Old Musketeer,Het Sas/Leroy,dark,8.00%,3,strong,Belgium
+133,Ciney Blond,Alken-Maes,brown,7.00%,28,normal,Belgium
+134,Ciney Brown,Alken-Maes,brown,7.00%,67,normal,Belgium
+135,Ciney Speciaal,Alken-Maes,unknown,8.50%,43,strong,Belgium
+136,Cleopaterken,Crombé,unknown,5.60%,72,normal,Belgium
+137,Contra Pils,Contreras,brown,5.00%,81,normal,Belgium
+138,Cornel Bier,Slaghmuylder,amber,4.80%,99,normal,Belgium
+139,Corsendonck Agnus,Brasserie du Bocq,unknown,8.10%,7,strong,Belgium
+140,Corsendonck Agnus,Corsendonck,brown,7.50%,69,strong,Belgium
+141,Corsendonck Pater,Bios,unknown,6.40%,52,normal,Belgium
+142,Corsendonck Pater,Corsendonck,dark brown,7.50%,70,strong,Belgium
+143,Couckelaerschen Doedel,Strubbe,unknown,6.00%,74,normal,Belgium
+144,Courtois,De Biertoren,unknown,1.20%,18,light,Belgium
+145,Cristal Alken,Alken-Maes,brown,5.00%,80,normal,Belgium
+146,Crom-Pils,Crombé,brown,4.50%,71,light,Belgium
+147,Cupido,Bosteels,amber,4.80%,23,normal,Belgium
+148,Cuvée Bosquétia,Brasserie du Bocq,unknown,8.80%,2,strong,Belgium
+149,Cuvée De L'Ermitage,Alken-Maes,amber,7.80%,23,strong,Belgium
+150,Cuvée de la Thyria brown,Huyghe,unknown,7.00%,63,normal,Belgium
+151,Cuvée de la Thyria brown,Huyghe,unknown,7.00%,31,normal,Belgium
+152,Cuvée de Namur brown,Huyghe,unknown,7.00%,66,normal,Belgium
+153,Cuvée de Namur brown,Huyghe,unknown,7.00%,91,normal,Belgium
+154,Cuvée St. Amand,Bavik,dark golden,7.50%,38,strong,Belgium
+155,De Brouwers van de Dijle,Piedboeuf,brown,5.00%,29,normal,Belgium
+156,De Koninck,De Koninck,brown,5.00%,86,normal,Belgium
+157,De Verboden Vrucht,De Kluis,dark red,8.00%,87,strong,Belgium
+158,Deca,Isebaert,brown,4.50%,45,light,Belgium
+159,Delbeccha,Delbeccha,unknown,8.00%,100,strong,Belgium
+160,Delirium Tremens,Huyghe,unknown,9.00%,6,strong,Belgium
+161,Dentergems Witbier,Riva,brown,5.00%,30,normal,Belgium
+162,Deugniet,Brasserie du Bocq,unknown,8.10%,46,strong,Belgium
+163,Dikke Mathilde,Strubbe,unknown,6.00%,15,normal,Belgium
+164,Dikkenek,De Smedt,unknown,6.00%,40,normal,Belgium
+165,Dinner Blond,Bavik,unknown,,33,,Belgium
+166,Dinner Faro,Bavik,unknown,,61,,Belgium
+167,Dobbel Faro,Vander Linden,dark brown,6.00%,89,normal,Belgium
+168,Dobbelen Brown,Roman,brown,7.20%,67,strong,Belgium
+169,Dobbelken,Strubbe,unknown,4.25%,19,light,Belgium
+170,Domein Bleek,Bios,brown,,70,,Belgium
+171,Domein Donker,Bios,dark brown,,53,,Belgium
+172,Domus,Domus,unknown,5.10%,47,normal,Belgium
+173,Dorppils,R. van Roy en Cie.,jaune,4.00%,35,light,Belgium
+174,Dorpsbier,R. van Roy en Cie.,light brown,2.00%,26,light,Belgium
+175,Dort Silbrau,Brasserie de Silly,brown,5.70%,64,normal,Belgium
+176,Double Blonde,Brasserie Gigi,unknown,1.20%,95,light,Belgium
+177,Double Engien Spéciale,Brasserie de Silly,amber,8.00%,82,strong,Belgium
+178,Double Floreffe,Lefebvre,dark,6.00%,22,normal,Belgium
+179,Doublette,Brasserie de Silly,amber,6.50%,0,normal,Belgium
+180,Drink Center Sharpe,Huyghe,unknown,4.60%,94,light,Belgium
+181,Dubbel Blond,Bockor (Vanderghinste),unknown,1.00%,55,light,Belgium
+182,Dubbel Blond,Louwaege,unknown,1.40%,16,light,Belgium
+183,Dubbel Domus Honingbier,Domus,unknown,7.00%,77,normal,Belgium
+184,Dubbel Gersten,De Es,unknown,,25,,Belgium
+185,Dubbel Palm,Palm,dark amber,4.80%,52,normal,Belgium
+186,Dubbel Wit,De Kroon,white,5.00%,72,normal,Belgium
+187,Duivel,Vander Linden,dark brown,6.00%,19,normal,Belgium
+188,Duivelsbier,Vander Linden,unknown,6.00%,73,normal,Belgium
+189,Duo,De Koninck,unknown,2.50%,29,light,Belgium
+190,Dupont Pils,Dupont,unknown,6.20%,8,normal,Belgium
+191,Duvel 7,Moortgat,brown,7.00%,54,normal,Belgium
+192,Duvel 8,Moortgat,brown,8.00%,67,strong,Belgium
+193,Echte Kriek,Verhaeghe,red,6.20%,55,normal,Belgium
+194,Edel Brau,Strubbe,unknown,0.30%,78,light,Belgium
+195,Egmont Zottegemse Tripel,Crombé,unknown,7.00%,21,normal,Belgium
+196,Elckerlijc,Callewaert,brown,6.50%,52,normal,Belgium
+197,Ename Dubbel,Roman,unknown,6.50%,67,normal,Belgium
+198,Ename Tripel,Roman,unknown,9.00%,62,strong,Belgium
+199,Esenaar,De Dolle Brouwers,unknown,6.00%,63,normal,Belgium
+200,Etoile,Dupont,unknown,,39,,Belgium
+201,Eupener Caramel,Eupener Bierbrauerei,unknown,1.50%,88,light,Belgium
+202,Eupener Export,Eupener Bierbrauerie,brown,3.50%,78,light,Belgium
+203,Eupener Extra Light,Eupener Bierbrauerei,unknown,,12,,Belgium
+204,Eupener Kapuziner Klosterbier,Eupener Bierbrauerie,dark,5.00%,32,normal,Belgium
+205,Eupener Pils,Eupener Bierbrauerie,brown,4.00%,41,light,Belgium
+206,Export,Alken-Maes,brown,5.00%,60,normal,Belgium
+207,Export,Bavik,unknown,5.00%,90,normal,Belgium
+208,Export,Huyghe,unknown,4.20%,73,light,Belgium
+209,Export,R. van Roy en Cie.,golden,4.00%,59,light,Belgium
+210,Export,Verhaeghe,brown,4.50%,66,light,Belgium
+211,Export Artois,Artois,brown,5.50%,50,normal,Belgium
+212,Extra,Huyghe,unknown,,88,,Belgium
+213,Extra Brown,Verlinden,brown,0.80%,69,light,Belgium
+214,Extra Gueuze,Eylenbosch,golden,5.00%,89,normal,Belgium
+215,Extra Pilsener,Moortgat,brown,5.50%,46,normal,Belgium
+216,Extra Stout,Callewaert,unknown,4.70%,33,light,Belgium
+217,Extra Tafelbier,Walrave,unknown,4.80%,89,normal,Belgium
+218,Extra Vieille,Allard & Groetembril,amber,6.00%,11,normal,Belgium
+219,Eylenbosch Framboos Cuvée Speciale,Eylenbosch,unknown,5.00%,78,normal,Belgium
+220,Facon Export,Facon,brown,4.00%,17,light,Belgium
+221,Facon Extra Stout,Facon,brown,7.50%,48,strong,Belgium
+222,Facon Pils,Facon,brown,5.00%,72,normal,Belgium
+223,Facon Scotch-Christmas,Facon,amber,7.50%,30,strong,Belgium
+224,Fakir,La Binchoise,unknown,6.80%,88,normal,Belgium
+225,Fancy low alcohol,Bavik,unknown,1.50%,20,light,Belgium
+226,Fantôme,Fantôme,unknown,8.00%,94,strong,Belgium
+227,Fantôme de Noël,Fantôme,unknown,,35,,Belgium
+228,Faro,Bockor (Vanderghinste),unknown,1.00%,81,light,Belgium
+229,Faro,Cantillon,unknown,5.00%,93,normal,Belgium
+230,Faro,Huyghe,unknown,,97,,Belgium
+231,Faro,Lindemans,brown,5.00%,96,normal,Belgium
+232,Faro,Louwaege,unknown,1.40%,81,light,Belgium
+233,Faro,R. van Roy en Cie.,red-brown,4.30%,6,light,Belgium
+234,Faro,Vander Linden,unknown,4.00%,82,light,Belgium
+235,Faro Alken,Alken-Maes,unknown,1.30%,66,light,Belgium
+236,Faro Extra,Eylenbosch,brown,5.00%,56,normal,Belgium
+237,Faro Pertotale,Frank Boon,amber,6.50%,47,normal,Belgium
+238,Felix Kriek Oud Brown,Clarysse,unknown,6.00%,71,normal,Belgium
+239,Felix Kriekbier,Clarysse,red-brown,5.20%,26,normal,Belgium
+240,Felix oud bruin,Clarysse,brown,5.20%,65,normal,Belgium
+241,Felix speciaal oudenaards,Clarysse,brown,4.60%,52,light,Belgium
+242,Festival Gueuze,Eylenbosch,golden,5.00%,51,normal,Belgium
+243,Fitt,R. van Roy en cie,unknown,1.50%,82,light,Belgium
+244,Flandrien,Louwaege,unknown,5.00%,53,normal,Belgium
+245,Floreffe brown,Lefebvre,unknown,7.00%,46,normal,Belgium
+246,dark,Poncelet,unknown,,69,,Belgium
+247,Fonske,Domus,unknown,5.00%,6,normal,Belgium
+248,Forst,Wielemans-Ceuppens,brown,4.75%,82,light,Belgium
+249,Framboise,Lindemans,pink-red,6.00%,90,normal,Belgium
+250,Framboise,Lindemans,unknown,,78,,Belgium
+251,Framboise Belle-Vue,Belle-Vue,red,4.20%,15,light,Belgium
+252,Framboise Cantillon,Cantillon,rosée,5.00%,0,normal,Belgium
+253,Framboise Jacobins,Bockor (Vanderghinste),unknown,5.50%,20,normal,Belgium
+254,Framboos Lambic,Timmermans,unknown,4.00%,85,light,Belgium
+255,Frambozen F. Boon,Frank Boon,rosée,6.50%,44,normal,Belgium
+256,Frambozenbier,De Neve,unknown,5.30%,83,normal,Belgium
+257,Frambozenbier,Vander Linden,red,7.00%,18,normal,Belgium
+258,Frambozenbier St. Louis,Van Honsebrouck,light red,5.50%,82,normal,Belgium
+259,Frater Ambrosius,Eylenbosch,pink red,5.00%,64,normal,Belgium
+260,Gaumaise,Brasserie Gigi,unknown,5.00%,81,normal,Belgium
+261,Gersten,De Es,unknown,,22,,Belgium
+262,Geuze,Vandervelden,unknown,6.00%,41,normal,Belgium
+263,Geuze F. Boon-Mariage Parfait,Frank Boon,golden,6.50%,17,normal,Belgium
+264,Gildenbier,Haacht,dark,6.70%,99,normal,Belgium
+265,Ginder-Ale,Martinas,amber,4.70%,37,light,Belgium
+266,Golden Campina,Campina,brown,5.00%,23,normal,Belgium
+267,Golden Hop,Bavik,unknown,5.00%,33,normal,Belgium
+268,Golden Kenia,Huyghe,brown,5.00%,9,normal,Belgium
+269,Gouden Carolus,Het Anker,amber,7.50%,36,strong,Belgium
+270,Grand Cru Hoegaarden Tripel,De Kluis,golden,7.50%,7,strong,Belgium
+271,Grimbergen Blond,Alken-Maes,brown,7.00%,60,normal,Belgium
+272,Grimbergen dubbel,Alken-Maes,dark,6.50%,48,normal,Belgium
+273,Grimbergen Optimo Bruno,Alken-Maes,brown,10.00%,56,strong,Belgium
+274,Grimbergen trippel,Alken-Maes,golden,8.60%,94,strong,Belgium
+275,Grisette,Friart,unknown,5.40%,24,normal,Belgium
+276,Gueuze,Lindemans,golden,5.00%,33,normal,Belgium
+277,Gueuze,Wets,golden,5.50%,99,normal,Belgium
+278,Gueuze Becasse,Brabrux,golden,4.15%,49,light,Belgium
+279,Gueuze Belle-vue,Belle-vue,golden,4.15%,64,light,Belgium
+280,Gueuze Belle-vue cuvee,Belle-vue,golden,4.15%,12,light,Belgium
+281,Gueuze Cantillon,Cantillon,golden,5.00%,56,normal,Belgium
+282,Gueuze Caveau,Timmermans,golden,5.50%,3,normal,Belgium
+283,Gueuze Caves Bruegel,Brabrux,golden,4.15%,18,light,Belgium
+284,Gueuze De Neve,De Neve,golden,4.15%,68,light,Belgium
+285,Gueuze De Troch,De Troch,golden,5.75%,94,normal,Belgium
+286,Gueuze Extra Cave St. Pierre,Brabrux,golden,4.15%,21,light,Belgium
+287,Gueuze Girardin,Girardin,golden,5.10%,53,normal,Belgium
+288,Gueuze Lambic,Timmermans,golden,5.50%,43,normal,Belgium
+289,Gueuze Lambic Jacobins,Bockor (Vanderghinste),golden,6.00%,73,normal,Belgium
+290,Gueuze Lambic Mort Subite,De Keersmaeker,golden,5.00%,71,normal,Belgium
+291,Gueuze Lambic St.-Louis,Van Honsebrouck,amber-brown,5.00%,54,normal,Belgium
+292,Gueuze Vieux Foudre,Vander Linden,golden,6.00%,24,normal,Belgium
+293,Gulden draak,Bios,noire,12.00%,10,strong,Belgium
+294,Haechts Witbier,Haacht,white,4.80%,77,normal,Belgium
+295,Hapkin,Louwaege,brown,8.50%,62,strong,Belgium
+296,Helles Lagerbier,Slaghmuylder,brown,4.20%,32,light,Belgium
+297,Het Kapittel-abt,Van Eecke,brown,10.00%,64,strong,Belgium
+298,Het Kapittel-dubbel,Van Eecke,brown,6.00%,100,normal,Belgium
+299,Het Kapittel-pater,Van Eecke,brown,5.00%,3,normal,Belgium
+300,Het Kapittel-prior,Van Eecke,brown,7.00%,73,normal,Belgium
+301,Hoegaarden,De Kluis,pale,5.00%,36,normal,Belgium
+302,Horse-ale,Piedboeuf,amber,4.90%,17,normal,Belgium
+303,Houten Kop,Strubbe,unknown,6.50%,9,normal,Belgium
+304,Ichtegem's oud bruin,Strubbe,brown,4.40%,39,light,Belgium
+305,Jack-Op,De Neve,unknown,5.00%,40,normal,Belgium
+306,Jack-op Ernest Claes,Brabrux,amber,3.70%,21,light,Belgium
+307,John Martin's Special,Palm,unknown,6.00%,39,normal,Belgium
+308,John Smith's Pale Ale,Roman,unknown,5.60%,33,normal,Belgium
+309,John Smith's Scotch Ale,Roman,unknown,6.50%,47,normal,Belgium
+310,Judas,Alken-Maes,brown,8.50%,34,strong,Belgium
+311,Julius,De Kluis,unknown,8.70%,58,strong,Belgium
+312,Jupiler,Piedboeuf,brown,5.00%,76,normal,Belgium
+313,Jupiler N.A.,Piedboeuf,brown,0.50%,46,light,Belgium
+314,Kastaar,De Block-Joostens,light brown,7.00%,21,normal,Belgium
+315,Kasteelbier Ingelmunster,Van Honsebrouck,brown,11.00%,91,strong,Belgium
+316,Kerelsbier donker,Het Sas/Leroy,unknown,6.40%,28,normal,Belgium
+317,Kerelsbier licht,Het Sas/Leroy,unknown,6.40%,28,normal,Belgium
+318,Kerstbier,Slaghmuylder,brown,5.20%,72,normal,Belgium
+319,Kerstbier,Van Den Bossche,brown,5.20%,83,normal,Belgium
+320,Kerstbier,Verhaeghe,unknown,6.50%,58,normal,Belgium
+321,Ketje,Artois,brown,6.40%,3,normal,Belgium
+322,Kir-Royal St.-Louis,Van Honsebrouck,unknown,5.00%,19,normal,Belgium
+323,Kob Pilsener,De Keersmaeker,brown,4.75%,97,light,Belgium
+324,Koningsbrau,Dendria,brown,5.10%,15,normal,Belgium
+325,Kortrijk 800,Bockor (Vanderghinste),unknown,6.90%,39,normal,Belgium
+326,Kriek,Lindemans,red,5.50%,89,normal,Belgium
+327,Kriek,R. van Roy en Cie.,red,4.30%,82,light,Belgium
+328,Kriek,Vander Linden,red,6.50%,73,normal,Belgium
+329,Kriek,Wets,red,6.00%,83,normal,Belgium
+330,Kriek Belle-Vue,Belle-Vue,red,4.20%,100,light,Belgium
+331,Kriek Belle-Vue Cuvee,Belle-Vue,red,4.20%,28,light,Belgium
+332,Kriek Cantillon,Cantillon,red,5.00%,87,normal,Belgium
+333,Kriek Caves Bruegel,Brabrux,red,4.20%,17,light,Belgium
+334,Kriek De Neve,De Neve,red,4.20%,46,light,Belgium
+335,Kriek De Troch,De Troch,red,5.75%,29,normal,Belgium
+336,Kriek F. Boon,Frank Boon,red,6.50%,47,normal,Belgium
+337,Kriek Girardin,Girardin,red,5.10%,5,normal,Belgium
+338,Kriek Lambic,Eylenbosch,red,5.00%,40,normal,Belgium
+339,Kriek Lambic,Timmermans,red,5.50%,89,normal,Belgium
+340,Kriek Lambic Jacobins,Bockor (Vanderghinste),red,6.00%,82,normal,Belgium
+341,Kriek Lambic Mort Subite,De Keersmaeker,red,5.00%,73,normal,Belgium
+342,Kriek Lambic St. Louis,Van Honsebrouck,red,5.50%,31,normal,Belgium
+343,Kriek Sherry Poesy Old Beersel,Vandervelden,red,7.00%,9,normal,Belgium
+344,Kriekenbier,Sint-Jozef,red,4.00%,81,light,Belgium
+345,Kronenbourg,Alken-Maes,brown,4.00%,40,light,Belgium
+346,Kronenbourg light,Alken-Maes,brown,2.90%,19,light,Belgium
+347,Kruger Export,Piedboeuf,brown,4.50%,36,light,Belgium
+348,Kruger Pils,Piedboeuf,brown,5.00%,57,normal,Belgium
+349,L'Vapeur en Folie Blonde,Brass. Cochon Vapeur,unknown,8.00%,24,strong,Belgium
+350,L'Vapeur red,Brass. Cochon Vapeur,unknown,8.00%,83,strong,Belgium
+351,La Bergeotte,Brasserie du Bocq,unknown,6.10%,44,normal,Belgium
+352,La Chouffe,Brasserie d'Achouffe,amber,6.80%,71,normal,Belgium
+353,La Durboyse,Lefebvre,unknown,7.00%,31,normal,Belgium
+354,La Gauloise 6,Brasserie du Bocq,brown,6.40%,26,normal,Belgium
+355,La Gauloise 8,Brasserie du Bocq,brown,8.00%,19,strong,Belgium
+356,La Gaumaise Blonde,Maire,amber,4.00%,30,light,Belgium
+357,La Meilleure Floreffe,Lefebvre,dark,8.00%,20,strong,Belgium
+358,La Moneuse,Brasserie de Blaugies,unknown,8.00%,4,strong,Belgium
+359,La Moneuse Spéciale Noël,Brasserie de Blaugies,unknown,8.00%,82,strong,Belgium
+360,La Montagnarde,Eloir-Bertiau,unknown,9.00%,79,strong,Belgium
+361,La Quenast,Lefebvre,unknown,5.00%,43,normal,Belgium
+362,La Thyloise,Saint-Etienne,unknown,7.00%,54,normal,Belgium
+363,La Vieille Bon-Secours,Voisin,amber,8.00%,78,strong,Belgium
+364,Lambic,Eylenbosch,golden,5.00%,53,normal,Belgium
+365,Lambiek,Cantillon,unknown,5.00%,18,normal,Belgium
+366,Lambiek,Vander Linden,golden,6.00%,52,normal,Belgium
+367,Lambiek,Vandervelden,unknown,5.50%,29,normal,Belgium
+368,Lambik Girardin-jonge,Girardin,golden,5.10%,62,normal,Belgium
+369,Lambik Girardin-Kriek,Girardin,red,5.10%,66,normal,Belgium
+370,Lambik Girardin-oude,Girardin,golden,5.10%,22,normal,Belgium
+371,Lamme Gisj,Vander Linden,unknown,8.00%,3,strong,Belgium
+372,Lamoral d'Egmont,Van Den Bossche,unknown,8.00%,73,strong,Belgium
+373,Lamot Pilsor,Piedboeuf,brown,5.00%,77,normal,Belgium
+374,Le Pavé de l'Ours,La Binchoise,unknown,8.50%,44,strong,Belgium
+375,Leffe Trippel,Brasserie du Bocq,unknown,7.00%,77,normal,Belgium
+376,Leroy Stout,Het Sas/Leroy,unknown,5.30%,47,normal,Belgium
+377,Leuvens Witbier,Domus,unknown,4.50%,59,light,Belgium
+378,Lichtaarts Kwezel,Lefebvre,unknown,7.00%,6,normal,Belgium
+379,Liefmans Frambozen,Liefmans,unknown,5.50%,27,normal,Belgium
+380,Liefmans Goudenband,Liefmans,dark brown,6.50%,40,normal,Belgium
+381,Liefmans Kriek,Liefmans,red-brown,7.20%,77,strong,Belgium
+382,Liefmans oud bruin,Liefmans,dark brown,5.20%,7,normal,Belgium
+383,Liezelse Witte,Vieille Villers,unknown,5.20%,91,normal,Belgium
+384,Loburg,Artois,brown,5.20%,19,normal,Belgium
+385,Loebas,Callewaert,brown,8.00%,46,strong,Belgium
+386,Loteling donker,Vieille-Villers,dark,8.00%,78,strong,Belgium
+387,Loteling licht,Vieille-Villers,light brown,8.00%,20,strong,Belgium
+388,Lowie Kators/Malmédy brown,Brasserie d'Achouffe,brown,8.00%,55,strong,Belgium
+389,Lucifer,Riva,brown,8.50%,27,strong,Belgium
+390,Luxem,Maire,amber,5.50%,88,normal,Belgium
+391,Mackeson Stout,Martinas,unknown,4.50%,23,light,Belgium
+392,Maes Pils,Maes,light,5.10%,44,normal,Belgium
+393,Mai-Bock,Piedboeuf,brown,6.10%,62,normal,Belgium
+394,Malmédy brown,Brasserie d'Achouffe,brown,8.00%,6,strong,Belgium
+395,Maltosa,Haacht,unknown,1.40%,11,light,Belgium
+396,Marckloff,La Ferme au Chêne,unknown,6.50%,34,normal,Belgium
+397,Maredsesous 10,Moortgat,unknown,9.50%,20,strong,Belgium
+398,Maredsesous 6,Moortgat,brown,7.50%,75,strong,Belgium
+399,Maredsesous 8,Moortgat,dark brown,8.20%,36,strong,Belgium
+400,Maredsesous 9,Moortgat,dark brown,8.90%,66,strong,Belgium
+401,Méértzen bier,Contreras,amber,5.20%,42,normal,Belgium
+402,McChouffe,Brasserie d'Achouffe,unknown,8.80%,99,strong,Belgium
+403,McEwan's Christmas Ale,Piedboeuf,dark,8.35%,24,strong,Belgium
+404,McEwan's Scotch Ale,Piedboeuf,dark,7.20%,85,strong,Belgium
+405,Mechelschen Bruynen,Het Anker,brown,6.50%,82,normal,Belgium
+406,Meibok,Domus,unknown,7.00%,2,normal,Belgium
+407,Mill's Extra Stout,Haacht,unknown,5.00%,53,normal,Belgium
+408,Mill's Pale Ale,Haacht,unknown,4.80%,47,normal,Belgium
+409,Mill's Scotch,Haacht,unknown,6.50%,70,normal,Belgium
+410,Minty,Huyghe,unknown,4.70%,86,light,Belgium
+411,Moeder Overste,Lefebvre,unknown,8.00%,71,strong,Belgium
+412,Moinette Biologique,Dupont,unknown,5.50%,58,normal,Belgium
+413,Mort Subite Cassis,De Keersmaeker,unknown,4.00%,61,light,Belgium
+414,Mort Subite Framboise,De Keersmaeker,unknown,4.00%,30,light,Belgium
+415,Mort Subite Peche,De Keersmaeker,unknown,4.00%,79,light,Belgium
+416,Mosel Bier,Van Steenberge,amber,5.20%,66,normal,Belgium
+417,Myn's pils,Brasserie de Silly,brown,5.00%,95,normal,Belgium
+418,Myrtille,Lindemans,unknown,,78,,Belgium
+419,Napoleon,De Smedt,dark,6.50%,86,normal,Belgium
+420,Ne Flierefluiter,De Smedt,unknown,6.70%,71,normal,Belgium
+421,Neyt Export,Neyt,brown,5.00%,62,normal,Belgium
+422,Neyt Pils,Neyt,brown,5.00%,55,normal,Belgium
+423,Newton Apple,Lefèbvre,white,3.50%,29,light,Belgium
+424,Nostradamus,Van Steenberge,brown,7.20%,4,strong,Belgium
+425,Nounou,Piraux,amber,8.00%,87,strong,Belgium
+426,Notger,Piedboeuf,unknown,,7,,Belgium
+427,Nounou,Bios,unknown,6.40%,64,normal,Belgium
+428,Oerbier,De Dolle Brouwers,red,7.50%,64,strong,Belgium
+429,Ops-ale,Sint-Jozef,pale,5.20%,37,normal,Belgium
+430,Orval,Brasserie d'Orval,amber,6.20%,54,normal,Belgium
+431,Oud bier Blond,Strubbe,brown,,80,,Belgium
+432,Oud bier Bruin,Strubbe,brown,,71,,Belgium
+433,Oud Bruin,Facon,brown,5.00%,72,normal,Belgium
+434,Oud Hell,Slaghmuylder,unknown,,98,,Belgium
+435,Oud Kriekenbier,Crombé,red,6.20%,40,normal,Belgium
+436,Oud Zottegems bier,Crombé,brown,6.50%,86,normal,Belgium
+437,Ouden Bruin,Facon,brown,2.00%,76,light,Belgium
+438,Ouden bruinen,Verhaeghe,unknown,,2,,Belgium
+439,Ouden Tripel,Bockor (Vanderghinste),dark brown,5.80%,93,normal,Belgium
+440,Oudenaards Bruin,Cnudde,brown,5.00%,99,normal,Belgium
+441,Oudenaards Wit Tarwebier,Clarysse,unknown,5.00%,77,normal,Belgium
+442,Paas Kriek,Domus,unknown,7.00%,78,normal,Belgium
+443,Paasbier,Slaghmuylder,brown,5.20%,70,normal,Belgium
+444,Paling,Eylenbosch,brown,8.00%,22,strong,Belgium
+445,Palm Green,Palm,unknown,0.25%,68,light,Belgium
+446,Pater Brown,Haacht,brown,1.40%,64,light,Belgium
+447,Pater Lieven,Van Den Bossche,amber,5.40%,47,normal,Belgium
+448,Paulus,Het Sas/Leroy,unknown,5.00%,58,normal,Belgium
+449,Pauwel Kwak,Bosteels,light brown,9.50%,97,strong,Belgium
+450,Pax-pils,Sint-Jozef,palen,5.10%,89,normal,Belgium
+451,Pêche-Lambiek St.-Louis,Van Honsebrouck,unknown,3.50%,80,light,Belgium
+452,Pêcheresse,Lindemans,unknown,,90,,Belgium
+453,Pee Klak,Strubbe,unknown,5.40%,34,normal,Belgium
+454,Peeterman,De Kluis,unknown,5.00%,92,normal,Belgium
+455,Perzikbier,De Neve,unknown,5.30%,89,normal,Belgium
+456,Perziken bier,Timmermans,unknown,4.00%,84,light,Belgium
+457,Peter Benoit,Het Sas/Leroy,brown,6.00%,9,normal,Belgium
+458,Petrus,Bavik,dark brown,4.50%,40,light,Belgium
+459,Pick-up,Walrave,brown,4.60%,26,light,Belgium
+460,Piedboeuf Blonde,Piedboeuf,brown,,44,,Belgium
+461,Piedboeuf dark,Piedboeuf,unknown,,87,,Belgium
+462,Piedboeuf Triple,Piedboeuf,unknown,,99,,Belgium
+463,Pils,Callewaert,unknown,4.70%,69,light,Belgium
+464,Pils Artisanale,Lefebvre,brown,5.00%,51,normal,Belgium
+465,Pilsen bleek-bruin,Facon,light brown,2.00%,53,light,Belgium
+466,Piraat,Bios,unknown,11.00%,79,strong,Belgium
+467,Polderbier Bitter,Steedje,unknown,8.00%,4,strong,Belgium
+468,Polderbier Fruitig,Steedje,unknown,8.00%,91,strong,Belgium
+469,Pony-Stout,Bavik,dark brown,4.50%,24,light,Belgium
+470,Poorter,Sterkens,unknown,6.50%,74,normal,Belgium
+471,Poperings Hommelbier,Van Eecke,brown,6.00%,51,normal,Belgium
+472,Poperings Hommelbier,Van Eecke,unknown,7.50%,77,strong,Belgium
+473,Postel,De Smedt,unknown,8.00%,52,strong,Belgium
+474,Postel Abdijbier,Campina,dark,7.50%,72,strong,Belgium
+475,Prik Pils,Roman,unknown,4.90%,21,normal,Belgium
+476,Primus Haacht Pils,Haacht,brown,5.00%,15,normal,Belgium
+477,Primus-Pils Christmas,Haacht,unknown,5.15%,29,normal,Belgium
+478,Promesse,Piessens,unknown,7.50%,20,strong,Belgium
+479,Prosit,Bosteels,brown,4.80%,14,normal,Belgium
+480,Punch Beer,Facon,amber,8.00%,85,strong,Belgium
+481,Queue de Charrue,Verhaeghe,unknown,5.20%,31,normal,Belgium
+482,Raf Export,Contreras,brown,5.00%,11,normal,Belgium
+483,Redor Pils,Dupont,brown,5.00%,52,normal,Belgium
+484,Reinbrau,Alken-Maes,brown,4.00%,61,light,Belgium
+485,Relax,Huyghe,unknown,,11,,Belgium
+486,Réserve Marie de Hongrie,La Binchoise,unknown,8.70%,62,strong,Belgium
+487,Ridder,Het Sas/Leroy,unknown,5.00%,34,normal,Belgium
+488,Riva 2000,Riva,brown,6.00%,58,normal,Belgium
+489,Riva Pils,Riva,brown,5.00%,51,normal,Belgium
+490,Riva Triple,Riva,amber,6.75%,26,normal,Belgium
+491,Rochus,De Ryck,unknown,4.70%,87,light,Belgium
+492,Rodal,De Neve,brown,3.80%,14,light,Belgium
+493,Rodark,Riva,dark,5.00%,29,normal,Belgium
+494,Rodea Gueuze,Eylenbosch,golden,5.00%,22,normal,Belgium
+495,Rodea Kriek,Eylenbosch,red,5.00%,85,normal,Belgium
+496,Rodenbach,Rodenbach,dark,4.60%,22,light,Belgium
+497,Rodenbach Grand Cru,Rodenbach,dark,5.10%,57,normal,Belgium
+498,Roman Oudenaards,Roman,brown,5.00%,73,normal,Belgium
+499,Romy Export,Roman,unknown,4.50%,39,light,Belgium
+500,Romy Luxe,Roman,brown,5.60%,54,normal,Belgium
+501,Romy Pils,Roman,brown,5.20%,46,normal,Belgium
+502,Rose de Cambrinus,Cantillon,unknown,5.00%,88,normal,Belgium
+503,Routiers,Isebaert,unknown,1.00%,54,light,Belgium
+504,Royal Ale,R. van Roy en Cie.,brown,5.10%,94,normal,Belgium
+505,Royale Blonde,Brasserie de Silly,unknown,1.20%,68,light,Belgium
+506,Safir,Artois,unknown,5.00%,98,normal,Belgium
+507,Safir,Dendria,brown,4.70%,91,light,Belgium
+508,Saint-Ghislain,Dupont,unknown,8.50%,14,strong,Belgium
+509,Saint-Hubert Blonde,Maire,brown,6.50%,28,normal,Belgium
+510,Saison,Dupont,amber,5.00%,76,normal,Belgium
+511,Saison 1900,Lefebvre,amber,5.00%,67,normal,Belgium
+512,Saison d'Erezée,Fantôme,unknown,7.00%,99,normal,Belgium
+513,Saison de Pipaix,Brasserie a Vapeur,amber,5.00%,4,normal,Belgium
+514,Saison de Silly,Brasserie de Silly,amber,5.00%,18,normal,Belgium
+515,Saison Dupont,Dupont,unknown,6.50%,16,normal,Belgium
+516,Saison Dupont Biologique,Dupont,unknown,7.50%,31,strong,Belgium
+517,Saison Regal,Brasserie du Bocq,amber,5.20%,99,normal,Belgium
+518,Salvator,R. van Roy en Cie.,dark brown,7.50%,83,strong,Belgium
+519,Sanctus,Moortgat,dark brown,7.00%,87,normal,Belgium
+520,Sas Export,Het Sas/Leroy,brown,4.50%,67,light,Belgium
+521,Sas Pils,Het Sas/Leroy,brown,4.50%,47,light,Belgium
+522,Sasbräu,Het Sas/Leroy,brown,6.00%,2,normal,Belgium
+523,Satan dark,De Block,unknown,8.00%,94,strong,Belgium
+524,Satan golden,De Block,unknown,8.00%,30,strong,Belgium
+525,Schavuit,Callewaert,unknown,8.00%,72,strong,Belgium
+526,Schwendi,Devaux,unknown,6.50%,10,normal,Belgium
+527,Scotch,Wielemans-Ceuppens,dark,7.50%,95,strong,Belgium
+528,Scotch de Silly,Brasserie de Silly,dark brown,7.70%,47,strong,Belgium
+529,Seule,Slaghmuylder,amber,5.70%,75,normal,Belgium
+530,Sezoens,Martens,brown,6.00%,17,normal,Belgium
+531,Sezoens Quattro,Martens,unknown,8.00%,50,strong,Belgium
+532,Sint-Bernardus Tripel,Sint-Bernardus,unknown,7.00%,30,normal,Belgium
+533,Skipper Ale,Campina,amber,5.00%,92,normal,Belgium
+534,Slag Lagerbier,Slaghmuylder,brown,4.70%,61,light,Belgium
+535,Sloeber,Roman,brown,7.00%,18,normal,Belgium
+536,Sorcières de Ellezeles,Voisin,unknown,6.80%,66,normal,Belgium
+537,Spanik Gueuze,Eylenbosch,golden,5.00%,55,normal,Belgium
+538,Sparta Pils,Bios,pale,5.00%,43,normal,Belgium
+539,Speciaal,Callewaert,unknown,,53,,Belgium
+540,Speciaal Natuurbier,Strubbe,unknown,4.90%,24,normal,Belgium
+541,Special,De Biertoren,unknown,0.80%,11,light,Belgium
+542,Special Alken,Alken-Maes,unknown,1.40%,23,light,Belgium
+543,Special Block 6,De Block-Joostens,red-brown,5.50%,8,normal,Belgium
+544,Special Blond,Verlinden,brown,0.80%,34,light,Belgium
+545,Special De Ryck,De Ryck,brown,4.50%,58,light,Belgium
+546,Special Katje,Het Sas/Leroy,amber,6.00%,97,normal,Belgium
+547,Spécial Noel,La Binchoise,unknown,9.00%,54,strong,Belgium
+548,Special Roman,Roman,brown,5.50%,51,normal,Belgium
+549,Speciale Aerts,Palm,amber,4.80%,3,normal,Belgium
+550,Speciale Baf,De Smedt,amber,5.00%,9,normal,Belgium
+551,Spéciale d'Avignon,Brasserie d'Avignon,unknown,,30,,Belgium
+552,Spéciale Gigi,Brasserie Gigi,unknown,2.00%,72,light,Belgium
+553,Speciale Neval,De Neve,amber,3.70%,43,light,Belgium
+554,Speciale Op-Ale,De Smedt,amber,5.00%,85,normal,Belgium
+555,Speciale Palm,Palm,amber,4.50%,67,light,Belgium
+556,Speciale Stop,Bavik,amber,4.50%,88,light,Belgium
+557,St. Benedict,De Kluis,dark red,6.50%,3,normal,Belgium
+558,St. Benoît brown,Brasserie du Bocq,unknown,7.40%,95,strong,Belgium
+559,St. Benoît brown,Brasserie du Bocq,unknown,7.40%,57,strong,Belgium
+560,St. Feuillien,Brasserie du Bocq,brown,6.40%,100,normal,Belgium
+561,St. Feuillien brown,Friart,brown,6.50%,17,normal,Belgium
+562,St. Feuillien brown,Brasserie du Bocq,unknown,7.80%,50,strong,Belgium
+563,St. Feuillien Brown,Friart,brown,6.50%,21,normal,Belgium
+564,St. Feuillien brown,Brasserie du Bocq,unknown,7.40%,45,strong,Belgium
+565,St. Feuillien Cuvée de Noël,Brasserie du Bocq,unknown,9.00%,57,strong,Belgium
+566,St. Feuillien Cuvée de Noël,Friart,unknown,9.00%,54,strong,Belgium
+567,St. Paul Double,Sterkens,unknown,6.90%,56,normal,Belgium
+568,St. Paul Triple,Sterkens,unknown,7.60%,46,strong,Belgium
+569,St. Sebastiaan Dark,Sterkens,unknown,6.90%,59,normal,Belgium
+570,St. Sebastiaan Grand Cru,Sterkens,unknown,7.60%,84,strong,Belgium
+571,St. Sixtus Abdij Abt,Sint-Bernardus,dark,10.40%,75,strong,Belgium
+572,St. Sixtus Abdij Pater,Sint-Bernardus,dark,7.10%,52,strong,Belgium
+573,St. Sixtus Abdij Prior,Sint-Bernardus,dark,8.30%,36,strong,Belgium
+574,Star Blond,Haacht,unknown,0.40%,45,light,Belgium
+575,Star Brown,Haacht,brown,0.40%,69,light,Belgium
+576,Steedje,Steedje,unknown,7.90%,95,strong,Belgium
+577,Steedje Special,Steedje,unknown,7.90%,23,strong,Belgium
+578,Steenbrugge Dubbel,De Gouden Boom,amber,6.50%,10,normal,Belgium
+579,Steenbrugge Tripel,De Gouden Boom,unknown,9.00%,27,strong,Belgium
+580,Steendonk,Palm,white,4.90%,69,normal,Belgium
+581,Stella Artois,Artois,brown,5.75%,45,normal,Belgium
+582,Stella Artois light,Artois,brown,3.50%,35,light,Belgium
+583,Stella Artois N.A.,Artois,unknown,0.50%,38,light,Belgium
+584,Ster Ale,Sterkens,amber,4.70%,63,light,Belgium
+585,Ster Christmas,Sterkens,dark amber,6.30%,52,normal,Belgium
+586,Stille Nacht,De Dolle Brouwers,red-brown,9.00%,50,strong,Belgium
+587,Stoeren Bonk,Bios,unknown,6.20%,51,normal,Belgium
+588,Stout,Louwaege,unknown,4.80%,71,normal,Belgium
+589,Stout Extra,Lefebvre,unknown,6.50%,12,normal,Belgium
+590,Straffe Hendrik,Straffe Hendrik,brown,7.50%,1,strong,Belgium
+591,Stropken Grand Cru,Slaghmuylder,amber,7.00%,43,normal,Belgium
+592,Strubbe Stout,Strubbe,unknown,5.00%,58,normal,Belgium
+593,Student,Lefebvre,unknown,4.50%,77,light,Belgium
+594,Sublim,Piessens,unknown,8.50%,83,strong,Belgium
+595,Sublim Light,Piessens,unknown,5.00%,28,normal,Belgium
+596,Super,Voisin,amber,4.50%,32,light,Belgium
+597,Super 64,Brasserie de Silly,amber,5.30%,60,normal,Belgium
+598,Super brown,Brasserie Gigi,unknown,1.20%,74,light,Belgium
+599,Super des Fagnes,Brasserie du Bocq,unknown,8.10%,30,strong,Belgium
+600,Super extra,Facon,unknown,3.00%,26,light,Belgium
+601,Super Pils,Bavik,brown,4.50%,47,light,Belgium
+602,Super Pils,Strubbe,brown,4.30%,12,light,Belgium
+603,Supergeuze,Cantillon,unknown,5.00%,63,normal,Belgium
+604,Supra,Artois,unknown,5.00%,84,normal,Belgium
+605,Supra,Dendria,brown,4.70%,76,light,Belgium
+606,T.V.,R. van Roy en Cie.,jaune,3.30%,77,light,Belgium
+607,Tafel Hell,Slaghmuylder,unknown,,97,,Belgium
+608,Tafelstout,Martens,unknown,0.50%,29,light,Belgium
+609,Teutenbier,De Teut,unknown,7.50%,38,strong,Belgium
+610,Titje,Brasserie de Silly,unknown,5.00%,28,normal,Belgium
+611,Toison D'Or,Het Anker,brown,7.00%,27,normal,Belgium
+612,Tongerlo Dubbel,Haacht,unknown,6.50%,42,normal,Belgium
+613,Tongerlo Tripel,Haacht,unknown,8.00%,11,strong,Belgium
+614,Tonneke,Contreras,amber,5.00%,77,normal,Belgium
+615,Tourtel amber,Alken-Maes,amber,0.50%,36,light,Belgium
+616,Tourtel brown,Alken-Maes,brown,0.50%,51,light,Belgium
+617,Tourtel Brown,Alken-Maes,brown,0.50%,93,light,Belgium
+618,Trappistenbier Dubbel,Trappisten,dark,6.30%,47,normal,Belgium
+619,Trappistenbier Extra,Trappisten,unknown,4.00%,75,light,Belgium
+620,Trappistenbier Tripel,Trappisten,amber,8.10%,53,strong,Belgium
+621,Trappistenbier Westvleteren Abt,Sint-Sixtusabdij,dark red,10.50%,17,strong,Belgium
+622,Trappistenbier Westvleteren Extra,Sint-Sixtusabdij,dark red,8.50%,58,strong,Belgium
+623,Trappistenbier Westvleteren Special,Sint-Sixtusabdij,dark red,6.20%,91,normal,Belgium
+624,Trappistes Rochefort 6,Notre Dame St.-Remy,brown,7.50%,53,strong,Belgium
+625,Trappistes Rochefort 8,Notre Dame St.-Remy,brown,9.20%,48,strong,Belgium
+626,Trappistes Rochefort 10,Notre Dame St.-Remy,brown,11.30%,92,strong,Belgium
+627,Trial Alken,Alken-Maes,unknown,3.70%,11,light,Belgium
+628,Trio,De Koninck,unknown,7.50%,76,strong,Belgium
+629,Tripel,Verhaeghe,unknown,,76,,Belgium
+630,Tripel Loo,Vieille Villers,unknown,6.50%,81,normal,Belgium
+631,Triple Block,Brasserie de Silly,unknown,3.20%,38,light,Belgium
+632,Triple Bock,Bavik,unknown,,54,,Belgium
+633,Triple Floreffe,Lefebvre,amber,8.00%,55,strong,Belgium
+634,Triple Loo,Isebaert,unknown,7.50%,47,strong,Belgium
+635,Triple Moine,Brasserie du Bocq,brown,7.20%,72,strong,Belgium
+636,Triple Villers,Vieille-Villers,amber,8.90%,27,strong,Belgium
+637,Triplor,Roman,unknown,3.50%,16,light,Belgium
+638,Brown,R. van Roy en cie,unknown,1.50%,72,light,Belgium
+639,Ulricher Pils,Girardin,brown,5.00%,51,normal,Belgium
+640,Unic Gigi,Brasserie Gigi,unknown,3.00%,18,light,Belgium
+641,Upper 19,R. van Roy en Cie.,brown,7.50%,72,strong,Belgium
+642,Urtyp,Piedboeuf,brown,6.10%,46,normal,Belgium
+643,Vaartlander,Brouwerij Sint-Niklaas,unknown,6.40%,30,normal,Belgium
+644,Val-Dieu Triple,Van Honsebrouck,unknown,9.00%,13,strong,Belgium
+645,Vapeur LégŠre Blonde,Brasserie … Vapeur,unknown,4.50%,79,light,Belgium
+646,Vedett,Moortgat,brown,5.50%,71,normal,Belgium
+647,Vera Pils,Verhaeghe,brown,4.80%,35,normal,Belgium
+648,Very Diest,Haacht,unknown,1.00%,69,light,Belgium
+649,Vichtenaar,Verhaeghe,dark brown,4.50%,65,light,Belgium
+650,Vieille Saison,Voisin,amber,5.50%,31,normal,Belgium
+651,Vieille Salme,Brasserie d'Achouffe,unknown,8.40%,32,strong,Belgium
+652,Vieille Villers,Vieille-Villers,dark,8.00%,44,strong,Belgium
+653,Vieux Bruges Framboos,Van Honsebrouck,unknown,5.00%,63,normal,Belgium
+654,Vieux Bruges Gueuze,Van Honsebrouck,unknown,5.00%,70,normal,Belgium
+655,Vieux Bruges Kriek,Van Honsebrouck,red,5.00%,64,normal,Belgium
+656,Vieux-Temps,St. Guibert,amber,4.60%,23,light,Belgium
+657,Vigneronne,Cantillon,unknown,5.00%,30,normal,Belgium
+658,Villers St. Ghislain,Brasserie de Silly,unknown,8.50%,5,strong,Belgium
+659,Vlaams Wit/Blanch-ke,Van Honsebrouck,white,4.60%,75,light,Belgium
+660,Vlaskop,Strubbe,white,5.50%,68,normal,Belgium
+661,Vondel,Riva,dark,8.50%,60,strong,Belgium
+662,Watney's Red Barrel,Alken-Maes,unknown,6.00%,44,normal,Belgium
+663,Watneys Christmas,Alken-Maes,dark,7.70%,95,strong,Belgium
+664,Watneys Pale-Ale,Alken-Maes,light brown,5.40%,43,normal,Belgium
+665,Watneys Scotch,Alken-Maes,dark,8.00%,83,strong,Belgium
+666,Watneys Stout,Alken-Maes,dark,3.60%,95,light,Belgium
+667,Watou's Wit,Van Eecke,unknown,5.00%,61,normal,Belgium
+668,Westmalle Trappist Dubbel,Westmalle,light brown,7.00%,57,normal,Belgium
+669,Westmalle Trappist Tripel,Westmalle,golden,9.50%,78,strong,Belgium
+670,Westmalle Extra,Westmalle,golden,5.00%,40,normal,Belgium
+671,Westvleteren Acht Blue Cap,Sint-Sixtus,brown,8.00%,14,strong,Belgium
+672,Whitbread Extra Stout,Martinas,unknown,4.50%,35,light,Belgium
+673,Whitbread Pale Ale,Martinas,unknown,4.50%,52,light,Belgium
+674,Wiel's,Wielemans-Ceuppens,brown,5.25%,83,normal,Belgium
+675,Wiels,Artois,unknown,5.00%,1,normal,Belgium
+676,Wieze Pils,R. van Roy en Cie.,yellow,4.70%,33,light,Belgium
+677,Wilson Mild,Bios,unknown,5.20%,8,normal,Belgium
+678,Witkap Pater/Dubbele Pater,Slaghmuylder,brown,5.40%,37,normal,Belgium
+679,Witkap Pater/Stimulo,Slaghmuylder,brown,5.40%,5,normal,Belgium
+680,Witkap Pater/Tripel,Slaghmuylder,brown,6.50%,57,normal,Belgium
+681,Wonderbier,Moortgat,brown,3.50%,60,light,Belgium
+682,Wonderlight,Moortgat,unknown,1.90%,44,light,Belgium
+683,X-Mas,R. van Roy en Cie.,dark brown,7.50%,59,strong,Belgium
+684,XMas 8,Brasserie du Bocq,brown,8.00%,62,strong,Belgium
+685,Yperman,Het Sas/Leroy,unknown,6.00%,51,normal,Belgium
+686,Zeelse houten kop,Huyghe,unknown,,46,,Belgium
+687,Zottegems,Cromb,dark,4.50%,52,light,Belgium
+688,Zottegemse Grand Cru,Cromb,unknown,8.40%,8,strong,Belgium
+689,Zulte oud bruin,Alken-Maes,brown,4.00%,64,light,Belgium
